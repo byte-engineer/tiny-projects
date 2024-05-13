@@ -4,7 +4,7 @@
 #include <math.h>
 #include <unistd.h>
 
-bool isPrime(int number) {
+bool isPrime(int number) {                                   // the function that checks for single prime number
     if (number <= 1) return false;
     for (int div = 2; div * div <= number; div++) {
         if (number % div == 0) return false;
@@ -23,10 +23,10 @@ int main() {
 
     int i = 0;
     printf("\n");
-    for (int num = 2; num <= num_range; num++) {
+    for (int num = 2; num <= num_range; num++) {                                    // for loop to check a range of numbers.
         if (isPrime(num)) {
             i++;
-            printf("%*d --> prime   | %d\n", (int)(1 + log10(num_range)), num, i);
+            printf("%*d --> prime   | %d\n", (int)(1 + log10(num_range)), num, i);  // If the number is prime i print it out and it's order.
         }
     }
 
