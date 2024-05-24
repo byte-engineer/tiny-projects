@@ -1,5 +1,3 @@
 ## (primes.py)
-<p> It use a Modulo "%"</p>
-<p>>> (number we wanna to chack) % (All numbers less than it)</p>
-<p>if the resulte not eqaul zero for all numbers that less than the number we are want to chack, So the number is a prime number.</p>
+<p>The idea of the code is to to try every single number if is divisible for all the number that less than it.</p>
 
