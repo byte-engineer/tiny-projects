@@ -3,7 +3,7 @@
 
 Then the code requast a number from a user to determ the range. The range always starts from zoro all the way to the limit that the user determ it previously.
 </p>
-## sort.py
+# sort.py
 <p>This code acsept a list contains a numbers to sort it.
 
 
