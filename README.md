@@ -1,10 +1,11 @@
-## primes.py
-<p>The idea of the code is to to try every single number if is divisible for all the number that less than it.
+# primes.py
 
-Then the code requast a number from a user to determ the range. The range always starts from zoro all the way to the limit that the user determ it previously.
-</p>
-## sort.py
-<p>This code acsept a list contains a numbers to sort it.
+The idea of the code is to try every single number to see if it is divisible by all the numbers less than it.
 
+Then the code requests a number from the user to determine the range. The range always starts from zero all the way to the limit that the user determines previously.
 
-the main idea is to divided the list to a piars and compair this piars.We actuly do that cable of times. According for the results we sort the list</p>
+# sort.py
+
+This code accepts a list containing numbers to sort it.
+
+The main idea is to divide the list into pairs and compare these pairs. We actually do that a couple of times. According to the results, we sort the list.
