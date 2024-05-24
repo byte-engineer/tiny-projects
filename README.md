@@ -1,4 +1,4 @@
-## Python script (primes.py)
+## (primes.py)
 
 <h1>How it works</h1>
 
