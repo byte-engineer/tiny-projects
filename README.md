@@ -1,4 +1,4 @@
-## THARE IS AN ERROR IN (Draft.py)
+## Python script (Draft.py)
 
 <h1>How it works</h1>
 
