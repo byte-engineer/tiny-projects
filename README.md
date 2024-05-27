@@ -1,13 +1,7 @@
-## THARE IS AN ERROR IN (Draft.py)
+# primes.py
+The idea of the code is to try every single number to see if it is divisible by all the numbers less than it.
+Then the code requests a number from the user to determine the range. The range always starts from zero all the way to the limit that the user determines previously.
 
-<h1>How it works</h1>
-
-<p> It use a Modulo "%"</p>
-<p>>> (number we wanna to chack) % (All numbers less than it)</p>
-<p>if the resulte not eqaul zero for all numbers that less than the number we are want to chack, So the number is a prime number.</p>
-
-
-<h1>Langauge comparision</h1>
-
-<p>Here is other version on C.</p>
-<p>You can compare between this two langauges in performence. </p>
+# sort.py
+This code accepts a list containing numbers to sort it.
+The main idea is to divide the list into pairs and compare these pairs. We actually do that a couple of times. According to the results, we sort the list.
